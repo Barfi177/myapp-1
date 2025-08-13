@@ -1,0 +1,21 @@
+{
+  "name": "ai-image-landing-page",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.30.0",
+    "eslint-config-next": "12.0.7",
+    "stylelint": "13.13.1",
+    "stylelint-config-recommended": "5.0.0",
+    "stylelint-config-styled-components": "0.1.1"
+  }
+}
